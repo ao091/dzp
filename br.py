@@ -1,6 +1,6 @@
 import requests
 import sys
-import urllib2
+import urllib.request as urllib2
 import lxml
 
 from mechanize import Browser
